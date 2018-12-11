@@ -1,2 +1,2 @@
-# curso_wpo
-Curso de Web Page Optimization.
+# desarrollo-web-portafolio
+Proyecto realizado 
